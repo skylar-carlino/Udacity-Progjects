@@ -1,0 +1,27 @@
+.name {
+  color: #336699;
+  text-align: center;
+  font-family: 'rock salt';
+  font-size: 10px;
+  margin: 10px;
+ 
+}
+
+.title {
+  color: Black;
+  font-family: 'cinzel';
+  font-weight: 400;
+  background-color: #336699;
+  padding: 5px;
+  outline:5px solid;
+  outline-color: black
+  
+}
+
+.body { 
+  text-align: center;
+  outline:5px solid;
+  outline-color:#336699;
+  
+ }
+
